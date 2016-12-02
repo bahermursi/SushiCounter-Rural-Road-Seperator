@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/SushiImages">
+        <file>Sushi/Image1.jpg</file>
+        <file>Sushi/Image2.jpg</file>
+        <file>Sushi/Image3.jpg</file>
+        <file>Sushi/Image4.jpg</file>
+        <file>Sushi/Image5.jpg</file>
+        <file>Sushi/templ1.jpg</file>
+        <file>Sushi/templ2.jpg</file>
+        <file>Sushi/templ3.jpg</file>
+        <file>Sushi/templ4.jpg</file>
+        <file>Sushi/templ5.jpg</file>
+    </qresource>
+    <qresource prefix="/OutdoorImages">
+        <file>Outdoors/Image1.jpg</file>
+        <file>Outdoors/Image2.jpg</file>
+        <file>Outdoors/Image3.jpg</file>
+        <file>Outdoors/Image4.jpg</file>
+    </qresource>
+</RCC>
